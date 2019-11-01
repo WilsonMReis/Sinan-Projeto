@@ -1,2 +1,10 @@
 # Sinan-Projeto
-Projeto para disciplina de APSI do quinto período de BSI-UAST 
+<p>Projeto para disciplina de APSI do quinto período de BSI-UAST</p>
+
+<ol>
+  <li>Leonardo Veras</li>
+  <li>Tainan Santos</li>
+  <li>Wilson Magalhães</li>
+  <li>Sávio Arthur</li>
+  <li>Bruno Leonardo</li>
+</ol>
