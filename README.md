@@ -7,5 +7,5 @@
   <li>Leonardo Veras</li>
   <li>Sávio Arthur</li>
   <li>Tainan Santos</li>
-  <li>Wilson Magalhães</li> 
+  <li>Wilson Magalhã es</li> 
 </ol>
