@@ -1,6 +1,5 @@
 <h1>Sinan-Projeto</h1>
 <h2>Projeto para disciplina de APSI do quinto período de BSI-UAST</h2>
-<h6>Sinan</h6>
 
 <p><b>Grupo</b></p>
 <ol>
